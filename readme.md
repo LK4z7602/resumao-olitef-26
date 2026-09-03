@@ -382,3 +382,5 @@ SUPERVISORES → fiscalizam as regras  → Banco Central (BC), CVM, Susep, Previ
 OPERADORES   → ofertam os serviços   → Bancos, B3, corretoras,
                                          cooperativas de crédito, seguradoras
 ```
+
+### Conteúdo gerado e revisado por inteligência artificial - considere pesquisar temas importantes
